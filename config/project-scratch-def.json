@@ -1,0 +1,75 @@
+{
+  "orgName": "my company",
+  "edition": "Enterprise",
+  "language": "en_US",
+  "country": "FR",
+  "features": [
+          "BusinessRulesEngine", 
+          "EventLogFile", 
+          "PersonAccounts", 
+          "EinsteinVisits", 
+          "DocumentChecklist", 
+          "DecisionTable", 
+          "DeferSharingCalc",
+          "EinsteinVisits", 
+          "SecurityEventEnabled", 
+          "ForceComPlatform", 
+          "SalesforceContentUser", 
+          "IndustriesManufacturingCmty", 
+          "IndustriesMfgAccountForecast", 
+          "WorkThanksPref", 
+          "EnableSetPasswordInApi", 
+          "Communities", 
+          "MarketingUser", 
+          "Sites", 
+          "ConnectedAppToolingAPI", 
+          "RecordTypes", 
+          "Workflow", 
+          "WorkflowFlowActionFeature",
+          "DebugApex"
+    ],
+
+  "settings": {
+    "communitiesSettings": {
+      "enableNetworksEnabled" : true
+    },
+    "accountSettings":{
+      "enableAccountTeams": true,
+      "enableContactHistoryTracking": true
+     },
+    "lightningExperienceSettings": {
+      "enableS1DesktopEnabled": true
+    },
+    "mobileSettings": {
+      "enableS1EncryptedStoragePref2": false
+    },
+    "languageSettings": {
+      "enableTranslationWorkbench": true,
+      "enableEndUserLanguages": true,
+      "enablePlatformLanguages": true
+    },
+    "workDotComSettings": {
+      "enableWorkThanksPref": true
+    },
+    "omniChannelSettings": {
+      "enableOmniChannel": true
+    },
+    "currencySettings": {
+      "enableMultiCurrency": true
+    },
+    "enhancedNotesSettings": {
+      "enableEnhancedNotes": true
+    },
+    "securitySettings": {
+      "enableAuditFieldsInactiveOwner": true
+    },
+    "surveySettings": {
+      "enableIndustriesCxmEnabled": false,
+      "enableSurvey": true,
+      "enableSurveyOwnerCanManageResponse": true
+    },
+    "customAddressFieldSettings": {
+      "enableCustomAddressField": true
+    }
+  }
+}

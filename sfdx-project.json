@@ -1,0 +1,65 @@
+{
+  "packageDirectories": [
+    {
+      "versionName": "1.0.0",
+      "versionNumber": "1.0.0.NEXT",
+      "path": "force-app",
+      "package": "EquinoxCorporate - Japan specifics",
+      "versionDescription": "Extension package for Equinox Corporate+ for the japanese market",
+      "dependencies": [
+        {
+          "package": "DashboardPal",
+          "subscriberPackageVersionId": "04t3Y000000mfz5QAA"
+        },
+        {
+          "package": "sharinpix_free",
+          "subscriberPackageVersionId": "04t1v000002GytoAAC"
+        },
+        {
+          "package": "BrightSIGN",
+          "subscriberPackageVersionId": "04t08000000NvEpAAK"
+        },
+        {
+          "package": "Salesforce Connected Apps",
+          "subscriberPackageVersionId": "04t30000001DUvrAAG"
+        },
+        {
+          "package": "List-View-Exporter",
+          "subscriberPackageVersionId": "04t4x000000NXusAAG"
+        },
+        {
+          "package": "Lightning Image Slider",
+          "subscriberPackageVersionId": "04t2J000000Am9nQAC"
+        },
+        {
+          "package": "Sortable Datagrid",
+          "subscriberPackageVersionId": "04t4H000000TJPkQAO"
+        },
+        {
+          "package": "Excel Upload",
+          "subscriberPackageVersionId": "04t5I0000016hqJQAQ"
+        },
+        {
+          "package": "Enhanced Files List",
+          "subscriberPackageVersionId": "04t5w000005b2U4AAI"
+        },
+        {
+          "package": "SDrive",
+          "subscriberPackageVersionId": "04tHn000001ebBAIAY"
+        },
+        {
+          "package": "EquinoxCorporate@1.24.0.2"
+        }
+      ]
+    }
+  ],
+  "name": "equinox-corporate-japan-specifics",
+  "namespace": "eqcorporate",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "61.0",
+  "packageAliases": {
+    "EquinoxCorporate": "0Ho4N000000blLjSAI",
+    "EquinoxCorporate@1.24.0.2": "04tUz0000000MdFIAU",
+    "EquinoxCorporate - Japan specifics": "0HoUz00000000RRKAY"
+  }
+}

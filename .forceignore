@@ -1,0 +1,34 @@
+# List files or directories below to ignore them when running force:source:push, force:source:pull, and force:source:status
+# More information: https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_exclude_source.htm
+#
+
+
+# LWC configuration files
+
+
+# **/force-app/main/default/aura
+# **/force-app/main/default/classes
+# **/force-app/main/default/classes/import
+# **/force-app/main/default/components
+# **/force-app/main/default/cspTrustedSites
+# **/force-app/main/default/customMetadata
+# **/force-app/main/default/dashboards
+# **/force-app/main/default/default
+# **/force-app/main/default/documents
+# **/force-app/main/default/flexipages
+# **/force-app/main/default/flows
+# **/force-app/main/default/labels
+# **/force-app/main/default/layouts
+# **/force-app/main/default/lwc
+# **/force-app/main/default/notificationtypes
+# **/force-app/main/default/objects
+# **/force-app/main/default/pages
+# **/force-app/main/default/pathAssistants
+# **/force-app/main/default/permissionsets
+# **/force-app/main/default/quickActions
+# **/force-app/main/default/reports
+# **/force-app/main/default/reportTypes
+# **/force-app/main/default/settings
+# **/force-app/main/default/triggers
+**/jsconfig.json
+**/.eslintrc.json
